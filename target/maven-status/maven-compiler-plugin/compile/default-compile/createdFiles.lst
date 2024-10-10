@@ -1,0 +1,8 @@
+AssurantExampleHelper\pageobjects\OrderScreen.class
+AssurantExampleHelper\pageobjects\LoginPage.class
+AssurantExampleHelper\pageobjects\Checkoutpage.class
+AssurantExampleHelper\pageobjects\CartScreen.class
+AssurantExampleHelper\pageobjects\FinalPage.class
+AssurantExampleHelper\Abstractcomponents\AbstractComponents.class
+AssurantExampleHelper\pageobjects\Productcatalogue.class
+AssurantExampleHelper\Resource\ExtentReportClass.class
